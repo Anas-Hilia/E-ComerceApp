@@ -1,7 +1,7 @@
 # E-Commerce-Website-Using-HTML-CSS-JS-PHP-SQL
 
 ## Summary
-Hello friends, This is my first full e-commerce project. This is free. Anybody can use and moderate this project.
+This application aims the management of product orders from various supermarkets of the city of Kenitra using (JS, HTML, CSS, BOOTSTRAP, MySQL and PHP).
 
 
 ## Platform Used
