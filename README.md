@@ -2,9 +2,8 @@
 
 ## Summary
 This application aims the management of product orders from various supermarkets of the city of Kenitra using (JS, HTML, CSS, BOOTSTRAP, MySQL and PHP).
-## Watch the Review :
-*[Watch the video](https://www.youtube.com/watch?v=j8i1iIm4DCY)
-
+## Watch the Review
+  [Watch-the-video](https://www.youtube.com/watch?v=j8i1iIm4DCY ) 
 <br>
 ## Platform Used
 ### Front-End
