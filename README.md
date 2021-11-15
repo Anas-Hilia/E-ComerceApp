@@ -37,8 +37,8 @@ This application aims the management of product orders from various supermarkets
 ###
 
 <p float="center">
-  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="425" />
-  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="425" /> 
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="400" /> 
 </p>
 
 ## Conclusion
