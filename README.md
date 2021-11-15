@@ -38,8 +38,35 @@ This application aims the management of product orders from various supermarkets
 
 <p float="center">
   <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="400" />
-  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="400" /> 
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic2.PNG" width="400" /> 
 </p>
+<br>
+<p float="center">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic3.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic4.PNG" width="400" /> 
+</p>
+<br>
+<p float="center">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic5.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic6.PNG" width="400" /> 
+</p>
+<br>
+<p float="center">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic7.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic8.PNG" width="400" /> 
+</p>
+<br>
+<p float="center">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic9.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic10.PNG" width="400" /> 
+</p>
+<br>
+<p float="center">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic11.PNG" width="400" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic12.PNG" width="400" /> 
+</p>
+<br>
+
 
 ## Conclusion
 There are also many more feature which are not in the list. Feel free to use this project
