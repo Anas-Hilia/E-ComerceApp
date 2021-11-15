@@ -35,11 +35,12 @@ This application aims the management of product orders from various supermarkets
 (iv) Confirm Order <br>
 ## User Interface
 ###
-                                                        Solarized dark             |          Solarized Ocean
-:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
-![](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG)  |  ![](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG)
 
-
+<p float="left">
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="100" />
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="100" /> 
+  <img src="https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG" width="100" />
+</p>
 
 ## Conclusion
 There are also many more feature which are not in the list. Feel free to use this project
