@@ -35,9 +35,7 @@ This application aims the management of product orders from various supermarkets
 (iv) Confirm Order <br>
 ## User Interface
 ###
-![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)
-![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)
-![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)
+![alt text-1](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)![alt text-2](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshoots/pic1.PNG?raw=true)
 
 
 
