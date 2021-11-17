@@ -33,8 +33,8 @@ This application aims the management of product orders from various supermarkets
 (ii) Update Product <br>
 (iii) Delete Product <br>
 (iv) Confirm Order <br>
+
 ## User Interface
-###
 
 ![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshots/pic1.PNG?raw=true) <br>
 ![alt text](https://github.com/Anas-Hilia/E-ComerceApp/blob/master/screenshots/pic2.PNG?raw=true) <br>
