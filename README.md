@@ -54,8 +54,8 @@ This application aims the management of product orders from various supermarkets
 
 
 ## Conclusion
-There are also many more feature which are not in the list. Feel free to use this project
+There are also many more feature which are not in the list.
 
 ### Set Up
-(i) Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html
+- Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html
 
